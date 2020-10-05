@@ -2,16 +2,16 @@
   "name": "darktheme",
   "version": "1.0.0",
   "description": "<h1 align=\"center\">   Dark Theme and Light Theme </h1>",
-  "main": "index.js",
+  "main": "src/server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon src/server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cdanielss/darktheme.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Carlos Daniel",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cdanielss/darktheme/issues"
