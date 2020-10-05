@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    <img alt="Main" width="560" title="#logo" src="./img/print.png">
+    <img alt="Main" width="560" title="#logo" src=".public/img/print.png">
     <br>
 </h3>
 
