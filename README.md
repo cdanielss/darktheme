@@ -7,13 +7,12 @@
     <br>
 </h3>
 
-<h4 align="center">
-  Simple application with option of dark theme and light theme.
-</h4>
+Aplicação simples com opção de tema escuro e tema claro.
 
-<h4 align="center">
-  Aplicação simples com opção de tema escuro e tema claro.
-</h4>
+**Instalação:** ``npm install``
+
+**Execução:** ``npm start``
+
 
 <h4 align="center">
     Made with 💜 by <a href="https://www.linkedin.com/in/carlos-daniel-17a320196/" target="_blank">Carlos Daniel</a>
